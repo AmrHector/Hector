@@ -1,0 +1,25 @@
+.Post {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+gap: 1rem;
+}
+#btn-group {
+  display: flex;
+  gap: 1rem;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+.verticle {
+  display: none;
+  flex-direction: column;
+  gap: 2rem;
+}
+.switcher {
+  display: flex;
+  gap: 1rem;
+}
