@@ -23,3 +23,6 @@ gap: 1rem;
   display: flex;
   gap: 1rem;
 }
+.card {
+  margin: 0 auto;
+}
